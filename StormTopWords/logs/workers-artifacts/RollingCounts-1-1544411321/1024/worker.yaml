@@ -1,0 +1,4 @@
+worker-id: a6e3f7d6-0eb2-4893-b264-9f16b885b223
+logs.users: []
+logs.groups: []
+topology.submitter.user: hadoop
